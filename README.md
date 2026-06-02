@@ -72,4 +72,4 @@
 
 
 
-<h1 align="center">You can see my proyects below 😉👇</h1>
+<h1 align="center">You can see some of my proyects below 😉👇</h1>
